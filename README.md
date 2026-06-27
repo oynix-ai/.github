@@ -39,11 +39,11 @@ lost — and makes it answerable.**
 
 ```mermaid
 flowchart LR
-    code[Your code] --> graph((Knowledge<br/>Graph))
-    tools[Slack · Jira · GitHub<br/>Notion · Sentry · …] --> graph
-    graph --> cli[Ask in the CLI]
-    graph --> slack[Ask in Slack]
-    graph --> agents[AI coding agents<br/>via MCP]
+    src["Your code"] --> kg(("Knowledge Graph"))
+    tools["Slack, Jira, GitHub, Notion, Sentry, and more"] --> kg
+    kg --> cli["Ask in the CLI"]
+    kg --> slack["Ask in Slack"]
+    kg --> agents["AI coding agents via MCP"]
 ```
 
 Oynix indexes your codebase into a graph of **real relationships** — functions,
