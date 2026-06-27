@@ -1,11 +1,3 @@
-# GitHub org profile README — `oynix-ai`
-
-**Publish:** create a **public** repo named **`.github`** in the `oynix-ai` org, add this as **`profile/README.md`**, commit. It renders on https://github.com/oynix-ai automatically.
-
-Everything below the line is the README. (Mermaid diagram and shields render natively on GitHub.)
-
----
-
 <div align="center">
 
 <h1>OYNIX</h1>
