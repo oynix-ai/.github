@@ -4,8 +4,8 @@
 
 **Nothing your team builds or decides ever disappears.**
 
-A graph-native knowledge layer for engineering teams — your code, decisions, and
-conversations captured in one living, queryable graph.
+A graph-native knowledge layer for org — your code, decisions,
+conversations, etc captured in one living, queryable graph.
 
 [![Website](https://img.shields.io/badge/Website-oynix.dev-cc785c?style=flat-square)](https://oynix.dev)
 [![Docs](https://img.shields.io/badge/Docs-CLI%20reference-1a1918?style=flat-square)](https://oynix.dev/docs)
